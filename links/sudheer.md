@@ -9,3 +9,9 @@
 [react dom](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file#what-is-the-use-of-react-dom-package)
 [checking window dimensions on resize](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file#how-to-re-render-the-view-when-the-browser-is-resized)
 [error boundary](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file#how-to-re-render-the-view-when-the-browser-is-resized)
+find why component re renders
+[rerenders with context](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file#how-do-you-solve-performance-corner-cases-while-using-context)
+[diffing algorithm](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file#what-is-diffing-algorithm)
+[rendering caveat with render prop](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file#what-are-the-problems-of-using-render-props-with-pure-components)
+[portal usecases](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file#what-is-the-typical-use-case-of-portals)
+implement user authentications across rerenders
