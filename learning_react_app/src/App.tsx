@@ -1,12 +1,12 @@
 import React from "react";
-import Stopwatch from "./components/stopwatch";
+import UserForm from "./components/userForm/UserForm";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header"></header>
       <div className="app-body">
-        <Stopwatch></Stopwatch>
+        <UserForm></UserForm>
       </div>
     </div>
   );
