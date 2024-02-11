@@ -1,4 +1,4 @@
-[useRef](https://react.dev/reference/react/useRe)
+[useRef](https://react.dev/reference/react/useRef)
 [forwardRef](https://react.dev/reference/react/useRef#examples-dom)
 [virtual dom questions](https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file#what-is-virtual-dom)
 [clone element](https://react.dev/reference/react/cloneElement)
